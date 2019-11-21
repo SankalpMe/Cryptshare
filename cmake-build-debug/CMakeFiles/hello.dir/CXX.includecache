@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sankalp/CLionProjects/hello/Loader.cpp
+Loader.h
+/Users/sankalp/CLionProjects/hello/Loader.h
+
+/Users/sankalp/CLionProjects/hello/Loader.h
+thread
+-
+chrono
+-
+iostream
+-
+
+/Users/sankalp/CLionProjects/hello/RSA.h
+math.h
+/Users/sankalp/CLionProjects/hello/math.h
+fstream
+/Users/sankalp/CLionProjects/hello/fstream
+
+/Users/sankalp/CLionProjects/hello/main.cpp
+iostream
+-
+math.h
+-
+fstream
+-
+RSA.h
+/Users/sankalp/CLionProjects/hello/RSA.h
+Loader.h
+/Users/sankalp/CLionProjects/hello/Loader.h
+
