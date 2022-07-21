@@ -1,4 +1,5 @@
-# RSA Encryptor
+# Cryptshare
+
 
 > **Prerequisite Knowledge:**
 > RSA (Rivest–Shamir–Adleman) is an algorithm used by modern
